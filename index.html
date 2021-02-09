@@ -130,7 +130,7 @@
                     <br>
                     <div class="subheading mb-3">Sampang Tourism Chatbot</div>
                     <p>This system is a chatbot application based on website and build with PHP language and MySQL database. This chatbot provide information about halal tourism in Sampang district. In the bottom right side of the homepage there is one button to activate the chatbot roomchat. There will be several  keyword suggestion for ﬁrst experienced user. After entering some keywords the output will come and provides information related. This system is temporarily hosted at :</p>
-                    <p><a href= "https://sampangchatbot.000webhostapp.com/">https://sampangchatbot.000webhostapp.com/</a></p>
+                    <p><a href= "https://chatbot-tourism-book.sampangkab.go.id/">https://chatbot-tourism-book.sampangkab.go.id/</a></p>
                     <p>April 2020 - August 2020</p>
                     <br>
                     <br>
