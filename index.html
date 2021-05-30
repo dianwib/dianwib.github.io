@@ -31,7 +31,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Project Experience</a></li>
                     <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li> -->
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="CV_Portofolio_Dian Wibowo.pdf" target="_blank"><i class="fab fa-download"></i> Download</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="CV_Portofolio_Dian Wibowo.pdf" target="_blank"><i class="fab fa-download"></i> Download</a></li> -->
                 </ul>
             </div>
         </nav>
