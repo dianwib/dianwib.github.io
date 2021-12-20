@@ -45,16 +45,15 @@
                         <span class="text-primary">Wibowo</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Gresik, (+62) 81 553 599 580·<br>
+                        Gresik·<br>
                         <a href="mailto:2nd.wibowo@gmail.com">2nd.wibowo@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am interested in web development including front-end and back-end. I also interest in build projects with mobile programming, AI or machine learning, natural language processing and data analytical. Im a fast learner and always want to learn something new.</p>
+                    <p class="lead mb-5">I am interested in web development including front-end and back-end.
+                         Im a fast learner and always want to learn something new.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/dian-wibowo-336159122/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/dianwib"><i class="fab fa-github"></i></a>
                         <a class="social-icon" href="https://t.me/dianwib"><i class="fab fa-telegram"></i></a>
-                        <a class="social-icon" href="https://wa.me/6281553599580"><i class="fab fa-whatsapp"></i></a>
-                        <a class="social-icon" href="https://web.facebook.com/dianwibowo22"><i class="fab fa-facebook-f"></i></a>
                         
                     </div>
                 </div>
