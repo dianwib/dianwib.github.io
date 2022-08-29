@@ -96,7 +96,7 @@
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
-                   
+                    
                 </div>
             </section>
             <hr class="m-0" />
@@ -112,7 +112,7 @@
                     <br>
                     <div class="subheading mb-3">Sampang Tourism</div>
                     <p>This website is a information system that containt tourism information  build with PHP language, CodeIgniter framework  and RestAPI. This website provide information about tourism in Sampang district. This website is built for tourist to explore tourism in Sampang before they come. This website is hosted at :</p>
-                    <p><a href= "http://tourism-book.sampangkab.go.id/">http://tourism-book.sampangkab.go.id/</a></p>
+                    <p><a href= "https://pariwisata.sampangkab.go.id/">https://pariwisata.sampangkab.go.id/</a></p>
                     <p>August 2019 - January 2020</p>
                     <br>
                     <br>
