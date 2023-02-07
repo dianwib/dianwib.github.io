@@ -53,7 +53,7 @@
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/dian-wibowo-336159122/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/dianwib"><i class="fab fa-github"></i></a>
-                        <a class="social-icon" href="https://t.me/dianwib"><i class="fab fa-telegram"></i></a>
+                       <!-- <a class="social-icon" href="https://t.me/dianwib"><i class="fab fa-telegram"></i></a> -->
                         
                     </div>
                 </div>
