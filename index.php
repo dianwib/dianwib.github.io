@@ -126,9 +126,9 @@
                     <p><a href= "https://play.google.com/store/apps/details?id=sisi.aksestoko.mobile.mobileaksestoko.prod&pcampaignid=web_share">AksesToko Mobile</a></p>
                     <p>March 2023 - Present</p>
                     <br>
-                    <div class="subheading mb-3">AksesToko Web</div>
+                    <div class="subheading mb-3">AksesToko</div>
                     <p>Developing Aksestoko Web e-commerce application used by all building stores integrated with SIG distributors to facilitate the ordering process, store incentive programs, and cooperation with credit service providers. The application is built using the CodeIgniter 4 framework and MariaDB.</p>
-                    <p><a href= "https://www.web.aksestoko.id">AksesToko Web</a></p>
+                    <p><a href= "https://aksestoko.id">AksesToko</a></p>
                     <p>March 2021 - Present</p>
                     <div class="subheading mb-3">FORCA PoS</div>
                     <p>Developing a point of sales web-based application used by 200 retail SIG distributors to facilitate distributors in the process of cement sales recording, facilitate recording in sales and purchase transactions, thereby improving company efficiency and performance.. The application is built using the CodeIgniter 3 framework and MariaDB database.</p>
