@@ -49,7 +49,7 @@
                     </h1>
                     <div class="subheading mb-5">
                         Gresik·<br>
-                        <a href="mailto:2nd.wibowo@gmail.com">2nd.wibowo@gmail.com</a>
+                        <a href="mailto:2nd.wibowo@gmail.com">office.dianwibowo@gmail.com</a>
                     </div>
                     <p class="lead mb-5">A programmer with 5 years of experience, involved in projects such as point-of-sales application development, e-commerce, and ERP. Capable of working well both in a team and individually. Committed to continuous learning and developing skills in the latest technologies.</p>
                     <div class="social-icons">
