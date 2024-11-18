@@ -108,7 +108,7 @@
                     <h2 class="mb-5">Project Experience</h2>
                     <div class="subheading mb-3">ATBusiness</div>
                     <p>Acting as a technical lead developer in developing a web-based application used by 69 CORSales SIG distributors to facilitate distributors in the process of bulk cement sales recording, making it more efficient, effective, and accurate. The application is built using the CodeIgniter 3 framework and MariaDB database.</p>
-                    <p>Link<a href= "https://atbusiness.aksestoko.id/">Click me! ATBusiness</a></p>
+                    <p><a href= "https://atbusiness.aksestoko.id/">Click me! ATBusiness</a></p>
                     <p>September 2023 - August 2024</p>
                     <br>
                     <div class="subheading mb-3">E-PROC PT PPA</div>
@@ -123,7 +123,7 @@
                     <br>
                     <div class="subheading mb-3">AksesToko Mobile</div>
                     <p>Acted as a technical lead developer in developing the backend of the Aksestoko Mobile e-commerce application used by all building stores integrated with SIG distributors to streamline the ordering process, store incentive programs, and collaboration with credit service providers. The application was built using the Laravel framework and PostgreSQL.</p>
-                    <p><a href= "https://play.google.com/store/apps/details?id=sisi.aksestoko.mobile.mobileaksestoko.prod&pcampaignid=web_share">AksesToko Mobile</a></p>
+                    <p><a href= "https://play.google.com/store/apps/details?id=sisi.aksestoko.mobile.mobileaksestoko.prod&pcampaignid=web_share">Click me! AksesToko Mobile</a></p>
                     <p>March 2023 - August 2024</p>
                     <br>
                     <div class="subheading mb-3">AksesToko</div>
