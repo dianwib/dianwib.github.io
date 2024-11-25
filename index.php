@@ -108,42 +108,47 @@
                     <h2 class="mb-5">Project Experience</h2>
                     <div class="subheading mb-3">ATBusiness</div>
                     <p>Acting as a technical lead developer in developing a web-based application used by 69 CORSales SIG distributors to facilitate distributors in the process of bulk cement sales recording, making it more efficient, effective, and accurate. The application is built using the CodeIgniter 3 framework and MariaDB database.</p>
-                    <p><a href= "https://atbusiness.aksestoko.id/">Click me! ATBusiness</a></p>
+                    <p><a href= "https://atbusiness.aksestoko.id/">ATBusiness</a></p>
                     <p>September 2023 - August 2024</p>
                     <br>
                     <div class="subheading mb-3">E-PROC PT PPA</div>
                     <p>Performing maintenance bug fixes and developing new features for the existing EPROC application. Using the Lumen framework and PostgreSQL.</p>
-                    <p><a href= "https://eproc.ptppa.com/">Click me! EPROC</a></p>
+                    <p><a href= "https://eproc.ptppa.com/">EPROC</a></p>
                     <p>August 2023 - August 2024</p>
                     <br>
                     <div class="subheading mb-3">ATSalesman</div>
                     <p>Serving as the technical lead developer in developing the backend application of the ATSalesman Mobile application used by 1000 SIG salesmen to facilitate store monitoring, surveys, and orders. The application is built using the Laravel framework and PostgreSQL.</p>
-                 <p><a href= "https://atsalesman.aksestoko.id/">Click me! ATSalesman</a></p>
+                 <p><a href= "https://atsalesman.aksestoko.id/">ATSalesman</a></p>
                     <p>September 2023 - August 2024</p>
                     <br>
                     <div class="subheading mb-3">AksesToko Mobile</div>
                     <p>Acted as a technical lead developer in developing the backend of the Aksestoko Mobile e-commerce application used by all building stores integrated with SIG distributors to streamline the ordering process, store incentive programs, and collaboration with credit service providers. The application was built using the Laravel framework and PostgreSQL.</p>
-                    <p><a href= "https://play.google.com/store/apps/details?id=sisi.aksestoko.mobile.mobileaksestoko.prod&pcampaignid=web_share">Click me! AksesToko Mobile</a></p>
+                    <p><a href= "https://play.google.com/store/apps/details?id=sisi.aksestoko.mobile.mobileaksestoko.prod&pcampaignid=web_share">AksesToko Mobile</a></p>
                     <p>March 2023 - August 2024</p>
                     <br>
                     <div class="subheading mb-3">AksesToko</div>
                     <p>Developing Aksestoko Web e-commerce application used by all building stores integrated with SIG distributors to facilitate the ordering process, store incentive programs, and cooperation with credit service providers. The application is built using the CodeIgniter 4 framework and MariaDB.</p>
-                    <p><a href= "https://aksestoko.id">Click me! AksesToko</a></p>
+                    <p><a href= "https://aksestoko.id">AksesToko</a></p>
                     <p>March 2021 - Present</p>
                     <div class="subheading mb-3">FORCA PoS</div>
                     <p>Developing a point of sales web-based application used by 200 retail SIG distributors to facilitate distributors in the process of cement sales recording, facilitate recording in sales and purchase transactions, thereby improving company efficiency and performance.. The application is built using the CodeIgniter 3 framework and MariaDB database.</p>
-                    <p><a href= "https://pos.forca.id/">Click me! FORCA PoS</a></p>
+                    <p><a href= "https://pos.forca.id/">FORCA PoS</a></p>
                     <p>March 2021 - Present</p>
+                    <br>
+                     <div class="subheading mb-3">RSH Travel</div>
+                    <p>Developed an information system for Umrah and Hajj booking, MLM system, accounting reporting system, and inventory monitoring system.</p>
+<!--                     <p><a href= "https://pos.forca.id/">FORCA PoS</a></p> -->
+                    <p>March 2023 - December 2023</p>
                     <br>
                     <div class="subheading mb-3">Sampang Tourism</div>
                     <p>This website is a information system that containt tourism information  build with PHP language, CodeIgniter framework  and RestAPI. This website provide information about tourism in Sampang district. This website is built for tourist to explore tourism in Sampang before they come. This website is hosted at :</p>
-                    <p><a href= "https://pariwisata.sampangkab.go.id/">Click me! Sampang Tourism</a></p>
+                    <p><a href= "https://pariwisata.sampangkab.go.id/">Sampang Tourism</a></p>
                     <p>August 2019 - January 2020</p>
                     <br>
                     <br>
                     <div class="subheading mb-3">Sampang Tourism Chatbot</div>
                     <p>This system is a chatbot application based on website and build with PHP language and MySQL database. This chatbot provide information about halal tourism in Sampang district. In the bottom right side of the homepage there is one button to activate the chatbot roomchat. There will be several  keyword suggestion for ﬁrst experienced user. After entering some keywords the output will come and provides information related. This system is temporarily hosted at :</p>
-                    <p><a href= "https://chatbot-tourism-book.sampangkab.go.id/">Click me! Sampang Tourism Chatbot</a></p>
+                    <p><a href= "https://chatbot-tourism-book.sampangkab.go.id/">Sampang Tourism Chatbot</a></p>
                     <p>April 2020 - August 2020</p>
                     <br>
                     <br>
